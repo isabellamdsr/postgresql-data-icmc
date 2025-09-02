@@ -15,8 +15,8 @@ LIMIT 2;
 ## Buscas Avançadas
 
 - LIKE: busca por padrões em textos. 
-**%** Simboliza zero ou mais
-**_** Completam strings
+    - **%** Simboliza zero ou mais
+    - **_** Completam strings
 
 ```sql
 SELECT ID, Nome

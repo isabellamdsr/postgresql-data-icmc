@@ -1,4 +1,4 @@
-# Aula 1 – ## Introdução à Análise de Dados e SQL
+# Aula 1 – Introdução à Análise de Dados e SQL
 
 ## Análise de Dados e SQL
 - Conjunto de técnicas para explorar e modelar dados
